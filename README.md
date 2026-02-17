@@ -10,5 +10,4 @@ a strong foundation in:
 - Probability
 - Data Structures
 
-Goal: Build IIT-level fundamentals for AI/ML.
-Timeline: Feb–Mar 2026
+Goal: Build IIT-level fundamentals for AI/ML
