@@ -1,0 +1,5 @@
+When to use comprehension?
+- Dictionary comprehension is a concise way to create dictionaries in Python by combining loops and conditional logic into a single line. It enhances code readability and reduces the need for lengthy loops.
+
+Readability tradeoffs?
+- Readability trade‑offs in Python often come down to balancing clarity with performance, conciseness, and flexibility. Python’s philosophy emphasizes that “Readability counts”, but in real-world projects, you sometimes need to compromise.
